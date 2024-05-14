@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">inventry2</string>
+    <string name="search" />
+    <string name="add_product" />
+    <string name="back" />
+    <string name="browse" />
+    <string name="please_enter_login" />
+    <string name="notificationtext" />
+    <string name="sign_in" />
+    <string name="sign_up" />
+    <string name="productname" />
+    <string name="main_menu" />
+</resources>

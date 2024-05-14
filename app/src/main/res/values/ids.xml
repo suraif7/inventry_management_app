@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="browse" type="id" />
+    <item name="search" type="id" />
+    <item name="addproduct" type="id" />
+    <item name="exit" type="id" />
+</resources>
